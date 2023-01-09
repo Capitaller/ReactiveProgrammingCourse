@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MultithreadingOperatorsTask5Tests" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-12T17:59:13" hostname="Antons-MacBook-Pro.local" time="1.409">
+  <properties/>
+  <testcase name="testSolution()" classname="MultithreadingOperatorsTask5Tests" time="0.398"/>
+  <testcase name="testSolution1()" classname="MultithreadingOperatorsTask5Tests" time="1.01"/>
+  <system-out><![CDATA[20:59:13.444 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

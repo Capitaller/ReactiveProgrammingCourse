@@ -1,0 +1,17 @@
+V12:08:39.203 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+é12:08:39.205 [Test worker] DEBUG reactor.core.publisher.Hooks - Hooking onEachOperator: DLMTask3Tests$$Lambda$349/0x0000000300221870@62727399
+è12:08:39.244 [Test worker] DEBUG io.micrometer.core.util.internal.logging.InternalLoggerFactory - Using SLF4J as the default logging framework
+p12:08:39.262 [Test worker] INFO After PublisherOn - | onSubscribe([Fuseable] FluxPublishOn.PublishOnSubscriber)
+I12:08:39.263 [Test worker] INFO After PublisherOn - | request(unbounded)
+=12:08:39.281 [single-1] INFO After PublisherOn - | onNext(0)
+=12:08:39.288 [single-1] INFO After PublisherOn - | onNext(1)
+=12:08:39.299 [single-1] INFO After PublisherOn - | onNext(2)
+=12:08:39.310 [single-1] INFO After PublisherOn - | onNext(3)
+=12:08:39.320 [single-1] INFO After PublisherOn - | onNext(4)
+=12:08:39.330 [single-1] INFO After PublisherOn - | onNext(5)
+=12:08:39.340 [single-1] INFO After PublisherOn - | onNext(6)
+=12:08:39.350 [single-1] INFO After PublisherOn - | onNext(7)
+=12:08:39.360 [single-1] INFO After PublisherOn - | onNext(8)
+=12:08:39.370 [single-1] INFO After PublisherOn - | onNext(9)
+<12:08:39.370 [single-1] INFO After PublisherOn - | cancel()
+k12:08:39.400 [Test worker] DEBUG reactor.core.publisher.Hooks - Reset to factory defaults : onEachOperator

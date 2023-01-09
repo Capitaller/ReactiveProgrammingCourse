@@ -1,0 +1,15 @@
+r16:22:27,012 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
+p16:22:27,013 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback.groovy]
+ý16:22:27,013 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [file:/Users/anton/IdeaProjects/Reactive%20Programming%20Course/Reactive%20In%20Action/Crypto%20Tracker/application/build/resources/test/logback.xml]
+†16:22:27,013 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs multiple times on the classpath.
+þ16:22:27,013 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs at [file:/Users/anton/IdeaProjects/Reactive%20Programming%20Course/Reactive%20In%20Action/Crypto%20Tracker/application/build/resources/main/logback.xml]
+þ16:22:27,013 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs at [file:/Users/anton/IdeaProjects/Reactive%20Programming%20Course/Reactive%20In%20Action/Crypto%20Tracker/application/build/resources/test/logback.xml]
+i16:22:27,040 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set
+•16:22:27,040 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+e16:22:27,042 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [STDOUT]
+µ16:22:27,044 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+s16:22:27,050 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to WARN
+~16:22:27,050 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[ROOT]
+g16:22:27,050 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.
+‰16:22:27,050 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@3276732 - Registering current configuration as safe fallback point
+

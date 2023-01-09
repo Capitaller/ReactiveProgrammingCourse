@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CommonOperatorsTask5Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-12T16:55:31" hostname="Antons-MacBook-Pro.local" time="0.072">
+  <properties/>
+  <testcase name="testSolution()" classname="CommonOperatorsTask5Tests" time="0.072"/>
+  <system-out><![CDATA[19:55:31.341 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

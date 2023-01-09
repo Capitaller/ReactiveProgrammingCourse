@@ -1,0 +1,14 @@
+dependencies {
+  implementation 'io.projectreactor.tools:blockhound'
+  implementation 'io.projectreactor:reactor-tools'
+  implementation 'io.projectreactor:reactor-core'
+  implementation 'io.projectreactor:reactor-test'
+
+}
+tasks.withType(Test).all {
+  if (JavaVersion.current().isCompatibleWith(JavaVersion.VERSION_13)) {
+    jvmArgs += [
+            "-XX:+AllowRedefinitionToAddDeleteMethods"
+    ]
+  }
+}
